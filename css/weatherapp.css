@@ -1,0 +1,19 @@
+html, body { 
+    height: 100%; 
+    margin: 0; 
+    padding: 0; 
+}
+
+#map {
+    height: calc(100vh - 300px);
+    margin-bottom: 30px; 
+}
+
+#label {
+    margin-bottom: 30px;
+}
+
+#saveLocation {
+    height: 30px;
+}
+
